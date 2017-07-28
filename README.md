@@ -1,18 +1,21 @@
 # morontube
 <hr>
-
+<br>
 A list of videos inside the folder includes/list <br>
-
+<br>
 The PHP code will automatically find the videos and place it in a flexbox container.<br>
-
+<br>
 The PHP code will loop through your videos and break each one into responsive tile ,renaming the html( Classes, ID's), The PHP functions, and the Jquery, Javascript functions to seperate the  id_keys of each video.<br>
-
+<br>
 This is very simple code that does very effective and complex work, it also validate even the names of the videos to match the Id,Class and functions.<br>
-
-I have figure out how to made the code smart enogth to code it self while looping. (Similar to The MVC frameworks).<br>
-
-All you need to do to add videos to the list (simply place the videos in the folder...).<br>
-
+<br>
+I have figure out how to made the code smart enough to re-code itself while looping. (Similar to The MVC frameworks).<br>
+<br>
+All you need to do, place all your videos in the folder and the code will handle it.<br>
+<br>
+<br>
+<br>
+<br>
 
 
 

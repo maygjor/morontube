@@ -19,9 +19,13 @@ All you need to do, place all your videos in the folder and the code will handle
 
 
 
-when you play any video, That will not make any request to the server and will not affect the entire page <br>
-*Play any video it will maximize and relativlly move other videos .<br>
+When you play any video, That will not make any request to the server and will not affect the entire page <br>
+
+*Play any video it will maximize and relatively move other videos .<br>
+<br>
 *Click on blur state to minimize the video back to its original state.<br>
+<br>
 *Click on the same video to Play or Pause.<br>
-*The next videos will automatically be placed in beside.<br>
+<br>
+*The next videos will automatically be placed in a beside.<br>
 
